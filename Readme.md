@@ -27,5 +27,4 @@ JLJZ.xlsx is the distance weight matrix
 Example of multi-step prediction：prediction4.xlsx
 
 Model
-GRU-GCN.ipynb
-Two versions of the model trained on the Yangtze River Delta dataset using different weight matrices: CSJ.pth and CSJ2.pth
+GRU-GCN.py
